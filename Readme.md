@@ -33,6 +33,12 @@ Also, need to set up transfer function:
 
 Data can be found on the [volvis.org](http://volvis.org/) website. If you have some problems try to use [web.archive.org](https://web.archive.org/web/20150407034236/http://volvis.org:80/) snapshot.
 
+## Screens
+
+![Foot](screens/screen01.png "Foot Ray Casting Visualization")
+![Aneurysm](screens/screen02.png "Aneurysm Ray Casting Visualization")
+
+
 ## Authors
 
 * **Maksym Tymkovych** [on github](https://github.com/MaksymTymkovych)
